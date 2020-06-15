@@ -6,6 +6,6 @@ A simple number guessing game using python and tkinter.
 
 
 # DISCLAIMER
-The whole code is not written by me, the basics of class syntaxes has been copied from (here)[https://stackoverflow.com/q/43722908/10846561].
+The whole code is not written by me, the basics of class syntaxes has been copied from [here](https://stackoverflow.com/q/43722908/10846561).
 
-Connect with me on (LinkedIn)[https://www.linkedin.com/in/ashutosh-dash-6a0a63169/]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-dash-6a0a63169/)
